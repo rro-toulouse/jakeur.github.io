@@ -1,6 +1,7 @@
 **Privacy Policy**
 
 Rodolphe Asséré built the Wood Score app as a Freemium app. This SERVICE is provided by Rodolphe Asséré at no cost and is intended for use as is.
+A subscription is available to unlock game customization based on iOS tier 1 price. A subscription lasts 1 year.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
