@@ -1,7 +1,6 @@
 **Politique de confidentialité**
 
 Rodolphe Asséré a conçu l'application Wood Score en tant qu'application Freemium. Ce SERVICE est fourni gratuitement par Rodolphe Asséré et est destiné à être utilisé en l'état.
-Un abonnement est disponible pour débloquer la customisation de parties basé sur les prix iOS tier 1. L'abonnement est annuel.
 
 Cette page est utilisée pour informer les visiteurs de mes politiques en matière de collecte, d'utilisation et de divulgation des informations personnelles si quelqu'un décide d'utiliser mon service.
 
@@ -11,7 +10,7 @@ Les termes utilisés dans cette politique de confidentialité ont la même signi
 
 **Collecte et utilisation des informations**
 
-Pour une meilleure expérience, lors de l'utilisation de notre Service, je peux vous demander de nous fournir certaines informations personnellement identifiables. Les informations que je demande seront conservées sur votre appareil et ne seront en aucun cas collectées par moi.
+Pour une meilleure expérience, lors de l'utilisation de notre Service, je récupère de manière anonyme les informations de nombre de parties lancées ainsi que les configurations de celles-ci.
 
 **Données de journal**
 
